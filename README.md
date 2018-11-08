@@ -1,6 +1,6 @@
 #### Testing Canary
 
-At my previous job, a "canary" was a term used to describe a system that continually runs tests and, if a failure occurs, sends out emails.
+This is a system that continually runs tests and, if a failure occurs, sends out emails.
 
 This is a demo of a very simple canary that sends email via the Apache-Commons-Email library (https://commons.apache.org/proper/commons-email/).
 
