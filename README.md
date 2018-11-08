@@ -1,6 +1,10 @@
-#### Testing Canary
+## Testing Canary
 
 This is a system that continually runs tests and, if a failure occurs, sends out emails.
+
+[![Build Status](https://travis-ci.com/JohnReedLOL/EmailTestingBot.svg?branch=master)](https://travis-ci.com/JohnReedLOL/EmailTestingBot)
+
+____________________________________________________________________________________________________________________
 
 This is a demo of a very simple canary that sends email via the Apache-Commons-Email library (https://commons.apache.org/proper/commons-email/).
 
